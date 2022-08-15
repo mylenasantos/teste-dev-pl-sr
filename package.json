@@ -1,0 +1,11 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "Teste paga vaga de back-end",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Incentivar",
+  "license": "ISC"
+}
